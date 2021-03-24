@@ -1,0 +1,27 @@
+1616580600739	geckodriver	INFO	Listening on 127.0.0.1:56729
+1616580603789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\t1366\\AppData\\Local\\Temp\\rust_mozprofileoY1NV2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616580606616	Marionette	INFO	Listening on port 56737
+1616580606922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616580612567	Marionette	INFO	Stopped listening on port 56737
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616580620945	geckodriver	INFO	Listening on 127.0.0.1:56782
+1616580623990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\t1366\\AppData\\Local\\Temp\\rust_mozprofileKrFwfI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616580626250	Marionette	INFO	Listening on port 56790
+1616580626619	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616580635178	Marionette	INFO	Stopped listening on port 56790
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\t1366\\AppData\\Local\\Temp\\rust_mozprofileo21IuG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616580632015	Marionette	INFO	Listening on port 56835
+1616580632341	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1616073011, line 6272: unreachable code after return statement
+1616580651621	Marionette	INFO	Stopped listening on port 56835
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

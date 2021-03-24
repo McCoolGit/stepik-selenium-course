@@ -2,7 +2,7 @@ import pytest
 import time
 
 
-def test_add_to_cart_button(browser, language):
+def test_is_add_to_cart_button(browser, language):
     link = f"http://selenium1py.pythonanywhere.com/{language}/catalogue/coders-at-work_207/"
     browser.get(link)
     time.sleep(30)
